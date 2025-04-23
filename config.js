@@ -7,8 +7,8 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['393291958600', 'NexusTrappy', true],
-  ['xxxxxxxxxx',],
+  ['393285686484', 'NexusTrappy', true],
+  ['639091384193',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],
